@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @01-comet
+- 👋 Hi, I’m Shatakshi!
 - 👀 I’m interested in Web development and Programming
 - 🌱 I’m currently a Btech student at KIET Group of Instituions
 - 💞️ I’m looking to collaborate on new projects
